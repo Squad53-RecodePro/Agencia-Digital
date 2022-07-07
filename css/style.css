@@ -5,6 +5,10 @@
   background-image: linear-gradient(to left, #ee390f 0%, #f9b700 51%, #ee390f 100%);
 }
 
+#fundored{
+  background-color: red;
+}
+
 /* line 6, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
 .member_counter {
   background-image: -moz-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
