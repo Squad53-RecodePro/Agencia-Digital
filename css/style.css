@@ -22,6 +22,11 @@ body {
   font-size: 14px;
 }
 
+#logoPrincipal{
+  width: 100%;
+  height: 100px;
+}
+
 .team .team-social {
   top: 0;
   background: rgba(23, 162, 184, 0.8);
